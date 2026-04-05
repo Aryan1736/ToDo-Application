@@ -95,14 +95,6 @@ src/
 
 ---
 
-## 👨‍💻 Author
-
-**Aryan Bagchi**
-
-* GitHub: https://github.com/YOUR_USERNAME
-
----
-
 ## ⭐ Contribute
 
 Feel free to fork this repo and improve it!
